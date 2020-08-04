@@ -5,13 +5,7 @@
  *@author Matt Gerry matt.e.gerry@accenturefederal.com
  *@date 7/13/2020
  */
-/*
-History
-=======
 
-VER        AUTHOR            DATE        	DETAIL		DESCRIPTION
-1.0      Matt Gerry        7/13/2020	   Creation    Initial creation for CRM-97/CRM-1109
-*/
 public with sharing class Util_DML_Operations
 {
 	private static final String SUCCESS = 'Success';
